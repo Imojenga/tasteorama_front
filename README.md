@@ -1,6 +1,8 @@
 <h1 align="center">Project Lucky7</h1>
 <p align="center">Site layout <a href="https://www.figma.com/design/A7C0J5DytxzO5xkX07MytA/Tasteorama--Copy-?node-id=6-39&p=f&t=rznCZsuWAtCeRjzB-0">Tasteorama</a></p>
 
+<a href="https://github.com/RaynaLuch/project-Lucky7" target="_blank">Backend repository here</a>
+
 <h2>Developers</h2>
 
 <p><a href="https://github.com/Imojenga" target="_blank">Inna Yoshchenko</a> - Layout</p>
